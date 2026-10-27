@@ -1,0 +1,5 @@
+{
+  "name": "chat-room",
+  "owner": { "name": "banerjeetara-tech" },
+  "plugins": [{ "name": "chat-room", "source": "./" }]
+}

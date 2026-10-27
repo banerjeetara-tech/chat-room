@@ -1,0 +1,6 @@
+{
+  "name": "chat-room",
+  "version": "0.1.0",
+  "description": "Usage button in every chat, a summary of long chats, and one-click compaction to free up context room",
+  "types": "./types/index.d.ts"
+}
